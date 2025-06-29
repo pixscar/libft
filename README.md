@@ -42,6 +42,6 @@ The goal is to build a reusable static library that can be linked to future C pr
 ## Author
 
 Developed by Piero Scarcina  
-LinkedIn: [https://www.linkedin.com/in/tuo-profil](https://www.linkedin.com/in/piero-scarcina-840768367/)o
+LinkedIn: https://www.linkedin.com/in/piero-scarcina-840768367/
 
 Project completed as part of the 42 Roma Luiss Common Core.
